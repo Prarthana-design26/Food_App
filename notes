@@ -1,0 +1,12 @@
+Food provides essential nutrients for overall health and well-being
+
+accounts:
+mongodb Atlas , Stripe : 22040010@gmail.com
+
+--if you want to check that your order is placed or not just copy orderId and paste it in mongodb atlas to see
+
+8.58.
+
+to run we need :
+1 :mongodb atlas tomato application
+2 :test stripe dummy credit card 
