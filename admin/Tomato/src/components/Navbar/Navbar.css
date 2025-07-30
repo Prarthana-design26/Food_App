@@ -1,0 +1,44 @@
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo
+{
+    width:13%;
+
+}
+.navbar .profile
+{
+    width: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
