@@ -1,0 +1,41 @@
+.app-download
+{
+    text-align: center;
+    font-size: 30px;
+}
+.app-download hr{
+    width: 100%;
+    height: 2px;
+    margin: 20px 0;
+    border: none;
+    background-color: rgb(215, 215, 215);
+    
+}
+
+.app-download-platforms
+{
+    margin: 10px;
+    
+}
+.app-download p{
+    margin-top: 30px;
+}
+
+.app-download-platforms img{
+    margin: 20px;
+    margin-bottom: -10px;
+    transition: 0.5s;
+    width: max(30vw,120px);
+    max-width: 180px;
+    cursor: pointer;
+}
+.app-download-platforms img:hover
+{
+    transform:scale(1.05);
+}
+
+
+
+
+
+

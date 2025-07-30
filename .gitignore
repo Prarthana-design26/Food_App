@@ -1,0 +1,23 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency folders
+node_modules/
+
+# Build outputs
+dist/
+dist-ssr/
+
+# Environment variables
+.env
+food_delivery backend/.env
+
+# Editor settings
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.njsproj
+*.sln
+*.sw?
